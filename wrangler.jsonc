@@ -1,7 +1,7 @@
 {
   // Web premium de Limmant Merca (HTML estático, sin build).
   // En Cloudflare: Build command VACÍO · Deploy command: npx wrangler deploy
-  "name": "elkindario",
+  "name": "limmantmerca",
   "compatibility_date": "2026-11-27",
   "assets": {
     "directory": "./public/",
